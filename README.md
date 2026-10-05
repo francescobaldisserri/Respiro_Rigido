@@ -38,7 +38,6 @@ Il cuore generativo è interamente contenuto in [`shaders/particles_generation.j
 - Max/MSP 8+ con Jitter
 - Una scheda audio (input per l'analisi in tempo reale, o riproduzione di un file)
 - Un controller MIDI con almeno 6–8 knob/fader e alcuni pad (note on/off)
-- GPU con supporto OpenGL 3.3+ (richiesto da `#version 330 core` nello shader)
 
 ## Struttura del repository
 
