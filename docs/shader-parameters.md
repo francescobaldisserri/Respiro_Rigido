@@ -38,9 +38,9 @@ impostabili via messaggio `param <nome> <valore>` inviato all'oggetto
 
 | Parametro | Default | Range | Funzione |
 |---|---|---|---|
-| `uAudioLow` | 0.0 | 0.0 – 1.0 | Energia della banda bassa (bassi). Guida: forza di attrazione, "pump" di scala della forma, respiro della spirale, saturazione colore. |
-| `uAudioMid` | 0.0 | 0.0 – 1.0 | Energia della banda media. Guida: velocità di rotazione delle forme, deriva dell'hue. |
-| `uAudioHigh` | 0.0 | 0.0 – 1.0 | Energia della banda acuta. Guida: turbolenza, impulso radiale "burst" verso l'esterno, luminosità (value). |
+| `uAudioLow` | 0.0 | 0.0 – 1.0 | Energia della banda bassa (bassi). Guida: forza di attrazione, dimensione della forma, respiro della spirale, saturazione colore. |
+| `uAudioMid` | 0.0 | 0.0 – 1.0 | Energia della banda media. Guida: velocità di rotazione delle forme. |
+| `uAudioHigh` | 0.0 | 0.0 – 1.0 | Energia della banda acuta. Guida: turbolenza, impulso radiale verso l'esterno, luminosità. |
 | `uAudioAmt` | 1.0 | 0.0 – 2.0+ | Master dell'intera reattività audio. A 0, l'audio è completamente disconnesso dal video indipendentemente dai valori di `uAudioLow/Mid/High`. |
 
 ## Output
