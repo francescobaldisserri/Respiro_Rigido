@@ -12,7 +12,7 @@ Il sistema genera sette forme-base, ciascuna scelta per il proprio carico simbol
 
 | Forma | Significato |
 |---|---|
-| Quadrato | Struttura, regola, ordine imposto — l'unica forma completamente immobile |
+| Quadrato | Struttura, regola, ordine imposto |
 | Linea retta | Riduzione all'essenziale, origine o fine, pura staticità |
 | Cerchio | Ciclo, completezza, ritorno regolare |
 | Otto rovesciato (∞) | L'eterno ritorno — un loop che non si chiude mai davvero |
