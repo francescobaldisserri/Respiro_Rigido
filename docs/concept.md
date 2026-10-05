@@ -15,10 +15,10 @@ Il sistema genera sette forme-base, ciascuna scelta per il proprio carico simbol
 | Quadrato | Struttura, regola, ordine imposto |
 | Linea retta | Riduzione all'essenziale, origine o fine, pura staticità |
 | Cerchio | Ciclo, completezza, ritorno regolare |
-| Otto rovesciato (∞) | L'eterno ritorno — un loop che non si chiude mai davvero |
-| Spirale / vortice | Crescita o collasso, respiro, avvicinamento e allontanamento letterali |
-| Cubo | Il quadrato reso volume — la stessa rigidità, ma tridimensionale |
-| Noise | Dissoluzione, entropia, perdita di identità — l'opposto assoluto dell'ordine |
+| Otto rovesciato (∞) | L'eterno ritorno, un loop che non si chiude mai davvero |
+| Spirale / Vortice | Crescita o collasso, respiro, avvicinamento e allontanamento letterali |
+| Cubo | Struttura del quadrato, ma tridimensionale |
+| Noise | Dissoluzione, caos, perdita di identità |
 
 ## Meccanismo audio-corpo/macchina
 
