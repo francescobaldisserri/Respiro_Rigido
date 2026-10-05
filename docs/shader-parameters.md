@@ -50,9 +50,3 @@ impostabili via messaggio `param <nome> <valore>` inviato all'oggetto
 | `uBrightness` | 1.0 | 0.0 – 4.0 | Luminosità generale. A 0, le particelle sono completamente nere **e invisibili**. Oltre 1.0, l'immagine diventa via via più luminosa/sovraesposta. |
 | `uTarget` | 0 0 0 | — | Centro verso cui converge la forma attiva. Può essere animato per spostare l'intera formazione nello spazio. |
 
-## Note implementative
-
-- Lo shader usa un integratore fisico a molla-smorzatore (spring-damper): ogni particella calcola un'accelerazione verso il proprio target, la accumula in velocità, applica smorzamento e clampa alla velocità massima.
-- Lo spazio di simulazione è periodico (wrap-around) tra -2 e +2 su ogni asse.
-- Le funzioni di forma usano `gl_VertexID` per assegnare una posizione univoca e deterministica ad ogni particella sulla superficie/contorno della forma scelta.
-- La turbolenza è generata da una funzione di curl-noise basata su un value-noise hash-based (nessuna texture richiesta).
