@@ -7,12 +7,13 @@
 | 1 | 1 | `uDamp` | 0.85 – 0.99 | 0.85 = particelle "morte" (si fermano subito), 0.99 = particelle "vive" (movimento prolungato) |
 | 2 | 2 | `uMaxVel` | 0.001 – 0.3 | 0.001 = particelle lente, 0.3 = particelle veloci |
 | 3 | 3 | `uForceAmt` | -1 – 1 | Intensità di attrazione verso la forma |
-| 4 | 4 | `uShapeBlend` | 0 – 1 | 0 = forma indefinita (nuvola), 1 = forma definita e nitida |
+| 4 | 4 | `uShapeBlend` | 0.01 – 1 | 0 = forma indefinita (nuvola), 1 = forma definita e nitida |
 | 5 | 5 | `uShapeMode` | 0 – 7 | Selezione forma (vedi `shader-parameters.md`) |
 | 6 | 6 | `uShapeScale` | 0 – 3 | Dimensione della forma |
-| 7 | 7 | `uAudioAmt` | 0 – 1 | Master reattività audio: 0 = immagine sorda al suono, 1 = reattività piena |
-| libero | — | `uNoiseAmt` | 0 – 0.6 | Quantità di turbolenza organica di base |
-| libero | — | `uBrightness` | 0 – 2.5 | Luminosità generale, fino alla scomparsa totale a 0 |
+| 7 | 7 | `uNoiseAmt` | -140 – 0 | Quantità di turbolenza organica di base |
+| 8 | 8 | `uBrightness` | 0 – 5 | Luminosità generale, fino alla scomparsa totale a 0 |
+| libero | - | `uAudioAmt` | 0 – 1 | Master reattività audio: 0 = immagine sorda al suono, 1 = reattività piena |
+
 
 ## Pad (Note On/Off)
 
