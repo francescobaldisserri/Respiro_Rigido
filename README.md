@@ -41,7 +41,7 @@ Il cuore generativo è interamente contenuto in [`shaders/particles_generation.j
 
 ## Come funziona
 
-Ogni particella è un vertice GPU che, ad ogni frame, calcola la propria posizione target in base alla "forma" attiva (`uShapeMode`), si muove verso di essa con un sistema massa-molla-smorzatore (spring-damper), e il risultato viene scritto come nuova posizione/velocità/colore per il frame successivo (feedback loop GPU, tipico delle simulazioni particellari in Jitter). I parametri audio (`uAudioLow/Mid/High`) modulano in tempo reale forza di attrazione, velocità, rotazione delle forme, turbolenza e colore.
+Ogni particella è un vertice GPU che, ad ogni frame, calcola la propria posizione target in base alla "forma" attiva (`uShapeMode`), si muove verso di essa e il risultato viene scritto come nuova posizione/velocità/colore per il frame successivo (feedback loop GPU, tipico delle simulazioni particellari in Jitter). I parametri audio (`uAudioLow/Mid/High`) modulano in tempo reale forza di attrazione, velocità, rotazione delle forme, turbolenza e colore.
 
 ## Parametri dello shader
 
