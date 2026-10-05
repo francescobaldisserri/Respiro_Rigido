@@ -19,8 +19,6 @@ impostabili via messaggio `param <nome> <valore>` inviato all'oggetto
 | `uShapeMode` | 0 | 0–7 | Quale forma generare (vedi tabella sotto). |
 | `uShapeBlend` | 1.0 | 0 – 1 | Attrattore a punto singolo (0 = forma irriconoscibile) e forma nitida specifica (1 = forma completamente leggibile). |
 | `uShapeScale` | 1.2 | 0.3 – 3 | Dimensione della forma rispetto allo spazio creato (-2 a +2). Valori oltre ~2 fanno eccedere la forma dai bordi, creando un effetto frammentato/glitch. |
-| `uCount` | 4096.0 | — | Numero totale di particelle nel sistema (deve corrispondere alla dimensione reale della matrice/mesh usata in Jitter, es. W×H). Serve per distribuire correttamente le particelle sulla superficie della forma. |
-| `uTime` | 0.0 | — | Tempo corrente (in secondi), da incrementare costantemente da Max. Guida le animazioni interne (rotazione forme, respiro spirale, deriva colore). |
 | `uNoiseAmt` | 0.15 | 0.0 – 0.6 | Turbolenza organica di base applicata a qualunque forma, indipendente dall'audio. A 0, le forme rigide restano perfettamente pulite anche con acuti al massimo. |
 
 ### Tabella `uShapeMode`
@@ -30,11 +28,11 @@ impostabili via messaggio `param <nome> <valore>` inviato all'oggetto
 | 0 | Punto singolo (attrattore classico) | Tutte le particelle convergono su `uTarget` |
 | 1 | Quadrato | Contorno sul perimetro, completamente statico |
 | 2 | Noise | Nuvola volumetrica caotica, respira nel tempo |
-| 3 | Cerchio | Anello piatto, rotazione lenta (legata ai medi audio) |
-| 4 | Otto rovesciato (∞) | Lemniscata di Bernoulli orizzontale, rotazione lenta |
+| 3 | Cerchio | Anello piatto, rotazione lenta |
+| 4 | Otto rovesciato (∞) | rotazione lenta |
 | 5 | Spirale / vortice | Il raggio si espande/contrae nel tempo e con i bassi |
 | 6 | Linea retta | Completamente statica, rigida |
-| 7 | Cubo | Wireframe sui 12 spigoli, rotazione lenta |
+| 7 | Cubo | Disegnato sui 12 spigoli, rotazione lenta |
 
 ## Reattività audio
 
