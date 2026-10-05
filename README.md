@@ -66,7 +66,7 @@ Vedi [`docs/controls-mapping.md`](docs/controls-mapping.md) per la mappatura com
 
 ## Media
 
-Foto, video e registrazioni audio della performance live in [`media/`](media/) — vedi il README in quella cartella per i link.
+Foto, video e registrazioni audio della performance live in [`media/`](media/) 
 
 ## Licenza
 
