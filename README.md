@@ -39,23 +39,6 @@ Il cuore generativo è interamente contenuto in [`shaders/particles_generation.j
 - Una scheda audio (input per l'analisi in tempo reale, o riproduzione di un file)
 - Un controller MIDI con almeno 6–8 knob/fader e alcuni pad (note on/off)
 
-## Struttura del repository
-
-```
-.
-├── README.md
-├── LICENSE                        # licenza del codice (MIT)
-├── shaders/
-│   └── particles_generation.jxs   # vertex shader GLSL: fisica, forme, audio-reattività
-├── docs/
-│   ├── concept.md                 # concept esteso, drammaturgia, note di sala
-│   ├── shader-parameters.md       # riferimento completo di tutti i parametri dello shader
-│   ├── controls-mapping.md        # mappatura controller MIDI → parametri
-│   └── LICENSE-CONTENT.md         # licenza del contenuto creativo (CC BY-NC-ND 4.0)
-└── media/
-    └── README.md                  # indicazioni per foto/video della performance
-```
-
 ## Come funziona
 
 Ogni particella è un vertice GPU che, ad ogni frame, calcola la propria posizione target in base alla "forma" attiva (`uShapeMode`), si muove verso di essa con un sistema massa-molla-smorzatore (spring-damper), e il risultato viene scritto come nuova posizione/velocità/colore per il frame successivo (feedback loop GPU, tipico delle simulazioni particellari in Jitter). I parametri audio (`uAudioLow/Mid/High`) modulano in tempo reale forza di attrazione, velocità, rotazione delle forme, turbolenza e colore.
