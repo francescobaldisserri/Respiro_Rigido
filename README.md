@@ -14,8 +14,6 @@ Performance audiovisiva generativa per sistema di particelle 3D, suono e control
 - [Parametri dello shader](#parametri-dello-shader)
 - [Mappatura controller](#mappatura-controller)
 - [Media](#media)
-- [Licenza](#licenza)
-- [Crediti](#crediti)
 
 ## Il progetto
 
@@ -67,11 +65,3 @@ Vedi [`docs/controls-mapping.md`](docs/controls-mapping.md) per la mappatura com
 ## Media
 
 Foto, video e registrazioni audio della performance live in [`media/`](media/) 
-
-## Licenza
-
-Questo repository usa una licenza doppia:
-- Il **codice** (shader GLSL) è rilasciato sotto licenza **MIT** — vedi [`LICENSE`](LICENSE).
-- Il **contenuto creativo** (concept, note di sala, documentazione drammaturgica, media) è rilasciato sotto **Creative Commons BY-NC-ND 4.0** — vedi [`docs/LICENSE-CONTENT.md`](docs/LICENSE-CONTENT.md).
-
-
