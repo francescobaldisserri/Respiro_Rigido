@@ -17,22 +17,26 @@
 
 ## Pad (per lanciare i vari Preset)
 
-| Pad | Funzione |
-|---|---|
-| 1 | Preset 1 (00:00) |
-| 2 | Preset 2 (01:26) |
-| 3 | Preset 3 (02:30) |
-| 4 | Preset 4 (04:43) |
-| 5 | Preset 5 (05:22) |
-| 6 | Preset 6 (09:33) |
-| 7 | Zoom avvicinamento |
-| 8 | Zoom allontanamento |
-
-## Asse Z camera (zoom)
-
-| Controllo | CC/Nota | Funzione |
+| Pad | MIDI | Funzione |
 |---|---|---|
-| Knob 8 | 8 | Posizione Z della camera (`jit.gl.camera`), zoom avvicinamento/allontanamento |
+| 1 | 40 | Preset 1 (00:00) |
+| 2 | 41 |Preset 2 (01:26) |
+| 3 | 42 |Preset 3 (02:30) |
+| 4 | 43 |Preset 4 (04:43) |
+| 5 | 36 |Preset 5 (05:22) |
+| 6 | 37 |Preset 6 (09:33) |
+| 7 | 38 |Zoom avvicinamento |
+| 8 | 39 |Zoom allontanamento |
+
+## MIDI (tastiera)
+
+| Nota | MIDI | Funzione |
+|---|---|---|
+| C1 | 48 | Particelle rosse |
+| D1 | 50 | Particelle gialle |
+| E1 | 52 | Particelle bianche |
+| C2 | 60 | Reset mesh |
+| C3 | 72 | Random flash |
 
 ## Catena di analisi audio
 
