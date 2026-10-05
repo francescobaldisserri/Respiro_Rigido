@@ -30,10 +30,12 @@ Un meccanismo tecnico è stato deliberatamente usato come dispositivo drammaturg
 
 ## Struttura drammaturgica (quattro atti)
 
-1. **Il corpo** — apertura organica: noise e spirale, camera ravvicinata, movimento lento e imprevedibile.
-2. **L'intrusione della macchina** — comparsa improvvisa di forme geometriche rigide (quadrato, linea, poi cubo), camera che si allontana, l'audio che torna gradualmente a influenzare la forma rigida facendola tremare.
-3. **Il conflitto** — alternanza rapida tra forme organiche e geometriche, `uShapeBlend` oscillante, zoom camera aggressivo, massima intensità audio-reattiva.
-4. **Risoluzione** — tre varianti possibili, scelte in base al senso che si vuole lasciare al pubblico: la macchina che vince (forma rigida, audio silenziato, immobilità finale), il corpo che vince (dissoluzione in rumore puro, camera che si tuffa nel caos), oppure una sintesi instabile (forma a metà, tremore che non si placa mai).
+1. **Noise Disperso** — apertura organica: noise, camera ravvicinata, movimento lento e imprevedibile.
+2. **Vertice Impazzito** - formazione del vertice, movimento veloce e imprevedibile.
+3. **Forme Rigide** — comparsa improvvisa di forme geometriche rigide (quadrato, linea, poi cubo), camera che si allontana, l'audio torna gradualmente a influenzare la forma rigida facendola tremare.
+3. **Il Conflitto** — alternanza rapida tra forme organiche e geometriche, zoom camera aggressivo, massima intensità audio-reattiva.
+4. **Scatola Chiusa** - le forme provano ad uscire da dentro al cubo. 
+5. **Risoluzione** — tre varianti possibili, scelte in base al senso che si vuole lasciare al pubblico: la macchina che vince (forma rigida, audio silenziato, immobilità finale), il corpo che vince (dissoluzione in rumore puro), oppure una sintesi instabile (forma a metà, tremore che non si placa mai).
 
 ## Interazione live
 
