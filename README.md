@@ -19,7 +19,7 @@ Performance audiovisiva generativa per sistema di particelle 3D, suono e control
 
 ## Il progetto
 
-*Respiro Rigido* è una performance audiovisiva generativa in tempo reale: un sistema di particelle tridimensionali reagisce al suono e viene guidato dal vivo attraverso un controller MIDI, mettendo in scena una tensione tra forme geometriche rigide (quadrato, cubo, linea retta) e forme organiche e caotiche (spirale, rumore), tra staticità e movimento, tra corpo e macchina.
+*Respiro Rigido* è una performance audiovisiva generativa in tempo reale: un sistema di particelle tridimensionali reagisce al suono e viene guidato dal vivo attraverso un controller MIDI, mettendo in scena una tensione tra forme geometriche rigide (quadrato, cubo, linea retta) e forme organiche e caotiche (cerchio, spirale, rumore); tra staticità e movimento, tra corpo e macchina.
 
 La descrizione estesa del concept, la struttura drammaturgica e le note di sala si trovano in [`docs/concept.md`](docs/concept.md).
 
