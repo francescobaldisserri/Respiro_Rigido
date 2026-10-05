@@ -25,8 +25,8 @@ Il sistema genera sette forme-base, ciascuna scelta per il proprio carico simbol
 Un meccanismo tecnico è stato deliberatamente usato come dispositivo drammaturgico: la turbolenza generata dalle frequenze acute dell'audio si applica a *qualsiasi* forma, comprese quelle rigide (quadrato, cubo). Questo significa che il suono — il corpo, letteralmente — può far tremare e incrinare anche la geometria più fredda e immobile, senza che il performer debba intervenire manualmente. Il mapping audio→video è stato progettato secondo questa logica:
 
 - **Frequenze Basse** → forza di attrazione verso la forma, la forma pulsa visibilmente
-- **Frequenze Medie** → velocità di rotazione delle forme, deriva del colore (hue)
-- **Frequenze Acute** → turbolenza organica, impulso verso l'esterno, luminosità
+- **Frequenze Medie** → velocità di rotazione delle forme
+- **Frequenze Acute** → turbolenza uniforme e luminosità delle particelle
 
 ## Struttura drammaturgica (quattro atti)
 
