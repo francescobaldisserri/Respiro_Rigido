@@ -15,13 +15,18 @@
 | libero | - | `uAudioAmt` | 0 – 1 | Master reattività audio: 0 = immagine sorda al suono, 1 = reattività piena |
 
 
-## Pad (Note On/Off)
+## Pad (per lanciare i vari Preset)
 
-| Pad | Nota MIDI | Funzione |
-|---|---|---|
-| — | — | Toggle generico (es. apertura finestra / erase color) |
-| — | — | Nudge `uNoiseAmt` su (tenuto premuto) |
-| — | — | Nudge `uNoiseAmt` giù (tenuto premuto) |
+| Pad | Funzione |
+|---|---|
+| 1 | Preset 1 (00:00) |
+| 2 | Preset 2 (01:26) |
+| 3 | Preset 3 (02:30) |
+| 4 | Preset 4 (04:43) |
+| 5 | Preset 5 (05:22) |
+| 6 | Preset 6 (09:33) |
+| 7 | Zoom avvicinamento |
+| 8 | Zoom allontanamento |
 
 ## Asse Z camera (zoom)
 
