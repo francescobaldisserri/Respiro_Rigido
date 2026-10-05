@@ -46,6 +46,4 @@
 | Medi | `svf~ 1265 0.6` | 800 – 2000 Hz | `uAudioMid` |
 | Acuti | `svf~ 4000 0.6` | > 4000 Hz | `uAudioHigh` |
 
-Ogni banda passa per `abs~` → `rampsmooth~ 50 300` → `snapshot~` (campionato
-da `metro 50`) → `scale` (calibrato sul materiale sonoro reale) → messaggio
-`param uAudioX $1`.
+
