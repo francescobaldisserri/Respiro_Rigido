@@ -47,7 +47,7 @@ impostabili via messaggio `param <nome> <valore>` inviato all'oggetto
 
 | Parametro | Default | Range | Funzione |
 |---|---|---|---|
-| `uBrightness` | 1.0 | 0.0 – 4.0 | Luminosità generale. A 0, le particelle sono completamente nere **e invisibili** (alpha = 0, richiede blending attivo sull'oggetto che disegna la mesh). Oltre 1.0, l'immagine diventa via via più luminosa/sovraesposta. |
+| `uBrightness` | 1.0 | 0.0 – 4.0 | Luminosità generale. A 0, le particelle sono completamente nere **e invisibili**. Oltre 1.0, l'immagine diventa via via più luminosa/sovraesposta. |
 | `uTarget` | 0 0 0 | — | Centro verso cui converge la forma attiva. Può essere animato per spostare l'intera formazione nello spazio. |
 
 ## Note implementative
