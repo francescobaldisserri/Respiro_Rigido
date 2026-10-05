@@ -1,9 +1,5 @@
 # Mappatura controller MIDI
 
-> ⚠️ I numeri di CC/nota riportati sono quelli osservati durante lo sviluppo
-> della patch. **Verificali con la tua patch Max prima di consegnare/esibirti**
-> e aggiorna questa tabella se sono cambiati.
-
 ## Knob (Control Change)
 
 | Knob | CC | Parametro | Range Max (`scale`) | Significato pratico |
