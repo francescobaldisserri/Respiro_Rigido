@@ -16,7 +16,7 @@ Il sistema genera sette forme-base, ciascuna scelta per il proprio carico simbol
 | Linea retta | Riduzione all'essenziale, origine o fine, pura staticità |
 | Cerchio | Ciclo, completezza, ritorno regolare |
 | Otto rovesciato (∞) | L'eterno ritorno, un loop che non si chiude mai davvero |
-| Spirale / Vortice | Crescita o collasso, respiro, avvicinamento e allontanamento letterali |
+| Spirale / Vortice | Crescita o collasso, respiro |
 | Cubo | Struttura del quadrato, ma tridimensionale |
 | Noise | Dissoluzione, caos, perdita di identità |
 
