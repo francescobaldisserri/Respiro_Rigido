@@ -74,7 +74,4 @@ Questo repository usa una licenza doppia:
 - Il **codice** (shader GLSL) è rilasciato sotto licenza **MIT** — vedi [`LICENSE`](LICENSE).
 - Il **contenuto creativo** (concept, note di sala, documentazione drammaturgica, media) è rilasciato sotto **Creative Commons BY-NC-ND 4.0** — vedi [`docs/LICENSE-CONTENT.md`](docs/LICENSE-CONTENT.md).
 
-## Crediti
 
-Ideazione, composizione e performance: [nome autore]
-Sviluppo tecnico (Max/MSP, Jitter, GLSL): [nome autore]
